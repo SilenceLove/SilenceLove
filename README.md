@@ -1,4 +1,10 @@
 ### Hi there 👋
+[![](https://img.shields.io/badge/-@Rogue24-%23181717?style=flat-square&logo=github)](https://github.com/SilenceLove)
+![iOS](https://img.shields.io/badge/-iOS-%232c3e50?style=flat-square&logo=iOS)
+
+## Status
+
+![Rogue24's github stats](https://github-readme-stats.vercel.app/api?username=SilenceLove&show_icons=true&theme=tokyonight)
 
 <!--
 **SilenceLove/SilenceLove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

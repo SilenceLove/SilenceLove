@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![](https://img.shields.io/badge/-@Rogue24-%23181717?style=flat-square&logo=github)](https://github.com/SilenceLove)
+[![](https://img.shields.io/badge/-@SilenceLove-%23181717?style=flat-square&logo=github)](https://github.com/SilenceLove)
 ![iOS](https://img.shields.io/badge/-iOS-%232c3e50?style=flat-square&logo=iOS)
 
 ## Status

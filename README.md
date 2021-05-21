@@ -5,10 +5,11 @@
 <a href="https://github.com/SilenceLove">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SilenceLove&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Silence's github stats" />
 </a>
+<br>
 <a href="https://github.com/SilenceLove">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SilenceLove&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-<r></r>
+<br>
 <a href="https://github.com/SilenceLove/HXPhotoPicker">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SilenceLove&repo=HXPhotoPicker&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>    

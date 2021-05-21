@@ -1,10 +1,20 @@
-### Hi there 👋
+### Hi there 👋, I'm [Silence!](https://SilenceLove.github.io)
 [![](https://img.shields.io/badge/-@SilenceLove-%23181717?style=flat-square&logo=github)](https://github.com/SilenceLove)
 ![iOS](https://img.shields.io/badge/-iOS-%232c3e50?style=flat-square&logo=iOS)
 
-## Status
+<a href="https://github.com/SilenceLove">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SilenceLove&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Silence's github stats" />
+</a>
+<a href="https://github.com/SilenceLove">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SilenceLove&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/SilenceLove/HXPhotoPicker">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SilenceLove&repo=HXPhotoPicker&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>    
+<a href="https://github.com/SilenceLove/HXPHPicker">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SilenceLove&repo=HXPHPicker&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
 
-![Rogue24's github stats](https://github-readme-stats.vercel.app/api?username=SilenceLove&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--
 **SilenceLove/SilenceLove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

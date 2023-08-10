@@ -6,6 +6,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SilenceLove&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Silence's github stats" />
 </a>
 
+<!--   skyline 
+<a href="https://skyline.github.com/Silence/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
+-->
+
 <!--
 <br>
 <p align="left">
@@ -30,8 +34,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<!--   skyline 
-<a href="https://skyline.github.com/Silence/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
+--> 
